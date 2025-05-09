@@ -99,14 +99,19 @@ Edit
 git checkout -b feature/YourFeatureName
 
 # Make your changes and commit
+```
 git commit -m "Add your message"
+```
 
 # Push to your branch
+```
 git push origin feature/YourFeatureName
+```
 
 # Open a Pull Request
+```
 Please read the Contributing Guidelines before submitting a PR.
-
+```
 🧑‍💻 Author
 Kunal Shinde
 📧 kunalshinde1805@gmail.com
